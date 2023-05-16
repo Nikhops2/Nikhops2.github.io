@@ -11929,7 +11929,7 @@ pre .code {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background-image: url(../imgs/header.jpg);
+  background-image: url(../imgs/la.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -12088,8 +12088,8 @@ pre .code {
 }
 
 .la-img-holder {
-  min-width: 300px;
-  max-width: 600px;
+  min-width: 400px;
+  max-width: 100px;
   margin-right: 100px;
 }
 
@@ -12115,7 +12115,7 @@ pre .code {
     text-align: center;
   }
   .la-img-holder {
-    max-width: 220px;
+    max-width: 200px;
     min-width: 100%;
     width: 100%;
     margin: auto;
